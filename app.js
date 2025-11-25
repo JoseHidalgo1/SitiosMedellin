@@ -42,8 +42,8 @@ const lugares = [
     icono: "fa-bus",
     imagenes: [
       {
-        url: "https://pplx-res.cloudinary.com/image/upload/v1764029111/search_images/141b0ce33d13cf689444e32bf2271a97b7aa3469.jpg",
-        descripcion: "Flota y paradero de buses de Somos Movilidad Rionegro."
+        url: "https://actualidad.com.co/wp-content/uploads/2023/09/7-anos-Moviendo-el-Futuro-de-la-Region-1-scaled-1-e1695480335112.jpg",
+        descripcion: "Funcionario de movilidad urbana en Rionegro."
       }
     ],
     ubicacion: "Rionegro, Antioquia",
@@ -72,12 +72,12 @@ const lugares = [
     icono: "fa-subway",
     imagenes: [
       {
-        url: "https://pplx-res.cloudinary.com/image/upload/v1764029112/search_images/9b8a2632dc5a0b1a8c2605944a4589597c5875a8.jpg",
+        url: "https://metromedellin.com.co/wp-content/uploads/Mapa_Metro_Santiago.webp",
         descripcion: "Mapa actual del sistema Metro de Medellín y sus estaciones."
       },
       {
-        url: "https://pplx-res.cloudinary.com/image/upload/v1764029111/search_images/ec08a323b62f2d4a8bb89289d50d5090009ccd1c.jpg",
-        descripcion: "Tren moderno en una estación del Metro de Medellín."
+        url: "https://static-uat.cambiocolombia.com/s3fs-public/2022-12/metro_de_medellin_12122022.jpg",
+        descripcion: "Tren moderno del Metro de Medellín."
       }
     ],
     ubicacion: "Medellín, Antioquia",
@@ -197,11 +197,11 @@ const lugares = [
     icono: "fa-palette",
     imagenes: [
       {
-        url: "https://pplx-res.cloudinary.com/image/upload/v1764029111/search_images/0473ef3b7c347c35562dfb48b321cd5d9da5a60a.jpg",
+        url: "https://cdnwordpresstest-f0ekdgevcngegudb.z01.azurefd.net/es/wp-content/uploads/2023/09/Esclaeras_electricas_45.jpg",
         descripcion: "Graffitis y murales coloridos en la Comuna 13."
       },
       {
-        url: "https://pplx-res.cloudinary.com/image/upload/v1764029112/search_images/304d5111d1145405d2779bc00a034483e1c2b88f.jpg",
+        url: "https://cdnwordpresstest-f0ekdgevcngegudb.z01.azurefd.net/es/wp-content/uploads/2023/09/Esclaeras_electricas_4a.jpg",
         descripcion: "Escaleras eléctricas y comunidad activa de la Comuna 13."
       }
     ],
