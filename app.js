@@ -19,18 +19,15 @@ const lugares = [
       "Inaugurado en 1985, cumple 40 años de operación.",
       "Altitud: 2.137 m.s.n.m. (metros sobre el nivel del mar).",
       "Proyección de 14.4 millones de pasajeros anuales para 2025.",
-      "Capacidad total: 205,000 operaciones aéreas anuales.",
-      "Empleo directo: más de 13.000 personas.",
       "Centro exportador de flores, frutas y productos manufacturados.",
       "En 2006 realizó pruebas con un Airbus A380, siendo el primero en Latinoamérica.",
-      "Inversión de 477 mil millones de pesos en la modernización más reciente."
     ],
     historia: "El Aeropuerto Internacional José María Córdova reemplazó al aeropuerto Olaya Herrera como principal terminal aérea internacional de Antioquia y el Eje Cafetero. El aeropuerto ha permitido conectividad global, facilitando el desarrollo económico regional y la exportación. Su crecimiento, modernización y rol como hub de exportación -especialmente flores y productos agrícolas- lo han convertido en pilar estratégico de Antioquia.",
-    impacto: "Conecta a la región con más de 30 destinos nacionales e internacionales. Soporta la economía exportadora (flores, aguacate, industria de moda). Genera más de 20 mil empleos directos e indirectos y posiciona a Medellín como capital logística del noroccidente colombiano. Es clave en la imagen internacional de la región y la anfitrionía de grandes eventos. Recibe 300 vuelos diarios y aporta a la descentralización de operaciones aéreas de Colombia.",
+    impacto: "Conecta a la región con más de 30 destinos nacionales e internacionales. Soporta la economía exportadora (flores, aguacate, industria de moda). Genera más de 20 mil empleos directos e indirectos y posiciona a Medellín como capital logística del noroccidente colombiano. Es clave en la imagen internacional de la región y la anfitrionía de grandes eventos. Recibe entre 120-150 vuelos diarios y aporta a la descentralización de operaciones aéreas de Colombia.",
     curiosidades: [
       "Primera pista de Latinoamérica donde aterrizó un Airbus A380: el avión comercial más grande del mundo.",
       "Exporta más de 50,000 toneladas de flores anualmente, especialmente durante San Valentín y el Día de la Madre a EE.UU y Europa.",
-      "La pista principal cuenta con 3,800 metros: la más larga de Colombia, ideal para vuelos de carga de ultra larga distancia."
+      "La pista principal cuenta con 3,557 metros"
     ],
     innovacion: "Implementa control migratorio biométrico y es pionero en eficiencia ambiental entre los aeropuertos del país. Sus modernos hangares permiten mantenimiento de aviones widebody.",
     importancia: "Punto estratégico para el comercio internacional, movilidad de personas, competitividad exportadora, recepción de turistas y eventos. Es figura clave en la integración regional y conectividad global de Medellín.",
@@ -50,16 +47,14 @@ const lugares = [
     acceso: "Opera a través de rutas principales y alimentadoras en todo Rionegro. Cobertura en el Oriente Antioqueño, integra aplicaciones móviles y paraderos inteligentes.",
     datos: [
       "Fundada: 23 de agosto de 2016.",
-      "Equipo: 169 empleados especializados en movilidad y transporte sostenible.",
       "Gestionan la movilidad en eventos masivos con altos estándares de seguridad.",
       "Programa Bicirio: sistema de más de 500 bicicletas compartidas.",
-      "Reducción del 40% en emisiones de CO2 y congestión."
+      "Impactos positivos en la reducción de emisiones de CO2 y congestión."
     ],
     historia: "Nació de la necesidad de soluciones integrales de movilidad. Articula actores públicos y privados, con enfoque en innovación, integración de sistemas de bicicleta pública y planes de manejo ambiental. Con fuerte visión en sostenibilidad y transformación urbana.",
     impacto: "Impacto directo en calidad de vida ciudadana: facilitando la reducción de tiempos de desplazamiento, integración modal y educación vial. Más de 50 eventos masivos gestionados anualmente. Fomenta el uso de vehículos ecológicos y promueve la movilidad activa.",
     curiosidades: [
       "El programa Bicirio es el más grande en el oriente antioqueño.",
-      "Cuenta con el primer simulador de tránsito para niños en la región.",
       "Sus estrategias han sido replicadas en otras ciudades de Colombia."
     ],
     innovacion: "Implementación de rutas adaptables, ecoflota y planes piloto de movilidad inteligente con sensores.",
@@ -84,7 +79,7 @@ const lugares = [
     acceso: "Accesible en toda el área metropolitana. Integración por tarjeta Cívica, buses alimentadores, Metrocable y Tranvía. El sistema opera desde Laureles hasta Bello y el sur del Valle de Aburrá.",
     datos: [
       "Inauguración el 30 de noviembre de 1995. Más de 25 años de operación continua.",
-      "76 estaciones, cubriendo 6 municipios del Valle de Aburrá.",
+      "27 estaciones, cubriendo 5 municipios del Valle de Aburrá.",
       "12 años de construcción, con desafíos de ingeniería y contexto social complejo.",
       "Conecta las líneas A (Niquía-La Estrella) y B (San Javier-San Antonio).",
       "Transporta a más de 500.000 pasajeros diarios."
@@ -120,8 +115,7 @@ const lugares = [
       "Primera línea (K): 7 de agosto de 2004.",
       "Actualmente cuenta con 6 líneas: H, J, K, L, M y P.",
       "Más de 14 km de extensión; 20 estaciones operativas.",
-      "Reduce viajes de 2 horas a solo 7 minutos y conecta a 400.000 habitantes.",
-      "3 km de vías peatonales rediseñadas y 1,000 árboles plantados."
+      "Reduce viajes de 2 horas a solo 7 minutos.",
     ],
     historia: "Solución pionera para barrios de laderas y difícil acceso. Primer teleférico del mundo de operación permanente y uso público, no turístico. Inspiró sistemas similares en América Latina y Asia.",
     impacto: "Reduce inequidad urbana, acerca servicios y oportunidades a familias marginadas, mejora seguridad y autoestima colectiva. Es símbolo global de innovación social y transformación.",
@@ -151,7 +145,7 @@ const lugares = [
     acceso: "Acceso desde el centro de Medellín hasta la zona oriental. Intercambio con Metro, buses y Metrocable. Adaptado para personas con movilidad reducida.",
     datos: [
       "Operación comercial iniciada el 31 de marzo de 2016.",
-      "Línea T (Ayacucho): 4.3 km, 10 estaciones. Línea 80: 4.1 km, 8 estaciones.",
+      "Línea T (Ayacucho): 4.3 km, 9 estaciones.",
       "70 años sin servicio entre 1950 y 2016.",
       "Flota: 12 tranvías modernos; capacidad: 5,400 pasajeros por hora/sentido.",
       "Primer tranvía con llantas de goma en América Latina."
@@ -160,10 +154,9 @@ const lugares = [
     impacto: "Revitaliza barrios patrimoniales, promueve memoria urbana y transporte sostenible. Mejora movilidad y calidad ambiental.",
     curiosidades: [
       "Solo tranvía con ruedas de goma en Latinoamérica, lo que reduce ruido y vibración.",
-      "Primer tranvía sin conductor del país (piloto en 2024).",
       "Recorre el histórico Museo de Antioquia, epicentro cultural de Medellín."
     ],
-    innovacion: "Tecnología híbrida (eléctrico + ruedas de goma). Señalización inteligente y conducción automatizada.",
+    innovacion: "Tecnología híbrida (eléctrico + ruedas de goma).",
     importancia: "Innova el transporte, rescata memoria histórica y fomenta identidad urbana.",
     cobertura: "Cubre el oriente de Medellín, conecta barrios históricos con el centro.",
     relevancia_academica: "Referente en integración patrimonial y tecnología moderna en sistemas urbanos."
@@ -178,13 +171,13 @@ const lugares = [
       "Sistema BRT de mediana capacidad y alta eficiencia.",
       "Troncal principal: 12,5 km/20 estaciones. Pretroncal sur: 18.5 km en obra.",
       "Atiende el 11% de la demanda de transporte metropolitano.",
-      "39 estaciones adaptadas a movilidad reducida.",
+      "20 estaciones adaptadas a movilidad reducida.",
       "Carriles elevados exclusivos para buses; reduce tiempos de viaje muy notablemente."
     ],
     historia: "Complementa al Metro con alta capacidad y eficiencia. Modelo de integración SITVA, pionero en adaptación de infraestructura urbana para buses BRT.",
     impacto: "Fomenta la equidad, facilita la interconexión sur-norte, reduce la congestión vial y disminuye la huella ambiental del transporte colectivo.",
     curiosidades: [
-      "Estaciones 100% accesibles, pioneras en Colombia.",
+      "Estaciones accesibles, pioneras en Colombia.",
       "Pases integrados SITVA, permiten transbordos directos con tarifa única."
     ],
     innovacion: "Sistemas inteligentes de información al usuario y control de flotas. Buses amigables con el medioambiente.",
@@ -208,10 +201,9 @@ const lugares = [
     ubicacion: "San Javier, Medellín",
     acceso: "Acceso en Metro hasta San Javier, luego buses integrados y caminatas por el barrio. Escaleras eléctricas públicas para el ascenso a zonas altas.",
     datos: [
-      "Reducción de homicidios del 90%: de 380 a 38 (por 100,000 habitantes).",
-      "Epicentro de violencia en los años 90; ahora, galería de arte al aire libre de 300 metros.",
+      "Reducción significativa de homicidios",
+      "Epicentro de violencia en los años 90; ahora, galería de arte al aire libre.",
       "Escaleras eléctricas públicas: 350 escalones en 6 tramos, primera de su tipo en América Latina.",
-      "Beneficia a más de 12,000 ciudadanos diariamente y recibe 5 millones de visitantes/año.",
       "Jóvenes transformaron armas en micrófonos, danzas y graffitis."
     ],
     historia: "Pasó de ser el lugar más peligroso de Medellín a símbolo global de resiliencia. Gracias a intervención estatal y liderazgo comunitario, se transformó con arte, cultura y economía creativa.",
@@ -243,15 +235,14 @@ const lugares = [
     acceso: "Ubicado a ambos lados del río Medellín, accesible desde el centro, Laureles y barrios aledaños. Entradas peatonales, ciclorrutas y portales en la avenida Regional.",
     datos: [
       "Proyecto de revitalización con 71.800 m² de espacio público nuevo.",
-      "280 árboles nativos plantados en 38.052 m² de zonas verdes.",
+      "cientos de árboles nativos y decenas de miles de m² de zonas verdes",
       "Inversión: 198 mil millones de pesos (primera etapa, 2016-2018).",
       "Recuperación ambiental del río y reducción de contaminación.",
-      "Ciclorrutas y cicloparqueaderos: 300 metros y 45 sitios disponibles."
     ],
     historia: "El río Medellín fue históricamente símbolo de contaminación y segregación urbana. Parques del Río convierte el corredor en destino de naturaleza, deporte y bienestar, rediseñando el paisaje urbano.",
     impacto: "Mejora drásticamente la calidad ambiental y social del borde del río. Genera espacios de integración ciudadana. Marca tendencia de recuperar ríos urbanos en América Latina.",
     curiosidades: [
-      "Incluye la escultura 'Montaña Medellín', de 14 metros de altura, obra de Ugo Rondinone, símbolo de esperanza y convivencia.",
+      "Incluye la escultura 'Montaña Medellín', de 10 metros de altura, obra de Ugo Rondinone, símbolo de esperanza y convivencia.",
       "Primer parque lineal en recuperar un río urbano en Colombia.",
       "Proyecto a 10 años con múltiples fases y expansión en curso."
     ],
@@ -484,19 +475,19 @@ const aprendizaje = [
 ];
 
 const cifras = [
-  { numero: "76", etiqueta: "Estaciones de Metro", icono: "fa-train" },
+  { numero: "27", etiqueta: "Estaciones de Metro", icono: "fa-train" },
   { numero: "1.2M", etiqueta: "Pasajeros Diarios", icono: "fa-users" },
   { numero: "1.280", etiqueta: "Árboles Plantados", icono: "fa-tree" },
   { numero: "71.800m²", etiqueta: "Espacio Público", icono: "fa-building" },
   { numero: "14.4M", etiqueta: "Pasajeros Aeropuerto", icono: "fa-plane" },
-  { numero: "13.000", etiqueta: "Empleos Directos", icono: "fa-briefcase" },
+  { numero: "+10.000", etiqueta: "Empleos Directos", icono: "fa-briefcase" },
 ];
 
 const curiosidadesVis = [
-  { titulo: "Altura Récord", icono: "fa-mountain", descripcion: "El Aeropuerto José María Córdova está a 2.137 metros sobre el nivel del mar, uno de los más altos de América." },
+  { titulo: "Altura", icono: "fa-mountain", descripcion: "El Aeropuerto José María Córdova está a 2.137 metros sobre el nivel del mar, uno de los más altos de Colombia." },
   { titulo: "Ahorro de Tiempo", icono: "fa-clock", descripcion: "El Metrocable redujo viajes de 2 horas a solo 7 minutos en las zonas de ladera." },
   { titulo: "Historia del Tranvía", icono: "fa-horse", descripcion: "El primer tranvía en 1887 era tirado por mulas. Resurgió en 2016 con tecnología moderna." },
-  { titulo: "Gigante del Aire", icono: "fa-airplane", descripcion: "El aeropuerto realizó pruebas con el Airbus A380, el avión de pasajeros más grande del mundo, en 2006." },
+  { titulo: "Gigante del Aire", icono: "fa-plane-arrival", descripcion: "El aeropuerto realizó pruebas con el Airbus A380, el avión de pasajeros más grande del mundo, en 2006." },
   { titulo: "Arte Urbano", icono: "fa-paint-brush", descripcion: "Comuna 13 es la galería de arte al aire libre más grande de Colombia, símbolo de transformación social." },
   { titulo: "Única en Colombia", icono: "fa-star", descripcion: "El Tranvía de Medellín es único en Colombia por usar llantas de goma en lugar de ruedas metálicas." },
 ];
